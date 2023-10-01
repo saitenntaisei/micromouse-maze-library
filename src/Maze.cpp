@@ -5,7 +5,7 @@
  * @date 2017-10-30
  * @copyright Copyright 2017 Ryotaro Onuki <kerikun11+github@gmail.com>
  */
-#include "MazeLib/Maze.h"
+#include "../include/MazeLib/Maze.h"
 
 #include <algorithm>  //< for std::find, std::count_if
 #include <iomanip>    //< for std::setw

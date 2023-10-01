@@ -9,7 +9,7 @@
 
 #include <limits>  //< for std::numeric_limits
 
-#include "MazeLib/Maze.h"
+#include "./Maze.h"
 
 namespace MazeLib {
 
